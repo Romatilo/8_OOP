@@ -14,6 +14,7 @@ public class Market implements I_QueueBehaviour, I_MarketBehaviour{
         this.orders = new ArrayList<Order>();
     }
 
+    /// Добавление клиента в очередь ///
     public void addCustomer(String customer) {
         if (queue.size() < maxSize) {
             queue.add(customer);
@@ -23,6 +24,7 @@ public class Market implements I_QueueBehaviour, I_MarketBehaviour{
         }
     }
 
+    /// Удаленпие клиента из очереди ///
     public void removeCustomer(String customer) {
         if (queue.contains(customer)) {
             queue.remove(customer);
@@ -32,11 +34,13 @@ public class Market implements I_QueueBehaviour, I_MarketBehaviour{
         }
     }
 
+    /// Добавление заказа в список заказов ///
     public void takeOrder(Order order) {
         orders.add(order);
         System.out.println("Заказ " + order.getId() + " принят");
     }
 
+    /// Удаление заказа из списка заказов, если он там есть ///
     public void completeOrder(int orderId) {
         for (Order order : orders) {
             if (order.getId() == orderId) {
@@ -48,6 +52,7 @@ public class Market implements I_QueueBehaviour, I_MarketBehaviour{
         System.out.println("Заказ " + orderId + " не найден");
     }
 
+    /// Обновление состояния магазина путем принятия и отдачи заказов ///
     public void update() {
         if (!orders.isEmpty()) {
             Order order = orders.get(0);
@@ -62,11 +67,11 @@ public class Market implements I_QueueBehaviour, I_MarketBehaviour{
         }
     }
 
-    public List<String> get_queue() {
+    public List<String> getQueue() {
         return queue;
     }
 
-    public List<Order> get_orders() {
+    public List<Order> getOrders() {
         return orders;
     }
 }
