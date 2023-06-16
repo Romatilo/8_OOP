@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4954e718-a8cc-4736-ba32-e5dedc8edb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar2/I_MarketBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2/I_MarketBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar2/I_QueueBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2/I_QueueBehaviour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seminar2/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2/Market.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,8 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,5 +69,16 @@
       <updated>1685286319288</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
