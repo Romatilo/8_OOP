@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4954e718-a8cc-4736-ba32-e5dedc8edb1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seminar5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/AdditionOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/ConsoleUserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/DivisionOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/I_CalcOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/I_UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/MultiplicationOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/calc/SubtractionOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/printElement/ConsolePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/printElement/FilePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/printElement/I_Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar6/printElement/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +47,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/!!Study/OOP",
+    "last_opened_file_path": "C:/!!Study/OOP/seminar6/calc",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -50,11 +66,18 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="seminar2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\!!Study\OOP\seminar6\calc" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="seminar6.calc" />
+      <recent name="seminar6.calc.model" />
       <recent name="seminar1.task1" />
       <recent name="seminar1.task1.task2" />
       <recent name="seminar1.task1.objects" />
-      <recent name="seminar1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="seminar6" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
