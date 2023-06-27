@@ -1,0 +1,4 @@
+2023-06-27 22:54:34,577 - Operation: AdditionOperation,                    Numbers: (1.0+2.0i),                    (3.0+4.0i),                    Result: (4.0+6.0i)
+2023-06-27 22:57:33,267 - Operation: SubtractionOperation,                    Numbers: (1.0+2.0i),                    (3.0+4.0i),                    Result: (-2.0+-2.0i)
+2023-06-27 22:57:48,675 - Operation: MultiplicationOperation,                    Numbers: (1.0+2.0i),                    (3.0+4.0i),                    Result: (-5.0+10.0i)
+2023-06-27 22:58:05,398 - Operation: DivisionOperation,                    Numbers: (1.0+2.0i),                    (3.0+4.0i),                    Result: (0.44+0.08i)

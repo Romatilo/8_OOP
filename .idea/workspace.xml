@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4954e718-a8cc-4736-ba32-e5dedc8edb1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/AdditionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/ConsoleUserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/DivisionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/I_CalcOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/I_UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/MultiplicationOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/calc/SubtractionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/printElement/ConsolePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/printElement/FilePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/printElement/I_Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar6/printElement/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4954e718-a8cc-4736-ba32-e5dedc8edb1f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
